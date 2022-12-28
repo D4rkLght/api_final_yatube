@@ -9,7 +9,7 @@ Api для проекта yatabe в котором можно изменять, 
 git clone git@github.com:D4rkLght/api_final_yatube.git
 ```
 ```
-cd kittygram2
+cd api_final_yatube
 ```
 Cоздать и активировать виртуальное окружение:
 ```
